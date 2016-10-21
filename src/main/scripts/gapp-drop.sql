@@ -1,0 +1,11 @@
+drop table ainfo cascade;
+drop table application cascade;
+drop table degree cascade;
+drop table department cascade;
+drop table history cascade;
+drop table program cascade;
+drop table roles cascade;
+drop table userInfo cascade;
+drop table users cascade;
+drop table department_application cascade;
+drop sequence hibernate_sequence;
